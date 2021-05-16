@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.log
+**/.env
+build/
+packages/server/dump.rdb
+.editorconfig
+**/.DS_Store
+packages/server/src/schema.gql
